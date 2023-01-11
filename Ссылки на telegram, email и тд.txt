@@ -1,0 +1,35 @@
+Ссылка на Telegram:
+<!-- для перехода к диалогу Telegram, где nickname название вашего имени или канала-->
+<a href="tg://resolve?domain=nickname">Telegram</a>
+
+Ссылка на Viber:
+<!-- ссылка на Viber для ПК -->
+<a href="viber://chat?number=+120345678910">Viber</a>
+
+<!-- ссылка на Viber для мобильных -->
+<a href="viber://add?number=+120345678910">Viber телефон</a>
+
+<!-- +120345678910 - номер телефона -->
+
+Ссылка на WhatsApp:
+<!-- ссылка на WhatsApp, где +120345678910 - номер телефона -->
+<a href="whatsapp://send?phone=+120345678910">WhatsApp</a>
+
+Ссылка на Skype:
+<!-- открыть диалог для Skype переписки, где nikname ваше имя в Skype -->
+<a href="skype:nikname?chat">Skype</a>
+
+<!-- ссылка на звонок по Skype, где nikname ваше имя в Skype -->
+<a href="skype:nikname?call">Skype</a>
+
+Ссылка на Facebook Messenger:
+<!-- открыть диалог в Facebook Messenger, где Username - имя вашего профиля -->
+<a href="https://www.messenger.com/t/Username">Facebook Messenger</a>
+
+Ссылка на электронную почту:
+<!-- ссылка на e-mailб где mail@gmail.com - ваш электронный адрес -->
+<a href="mailto:mail@gmail.com">E-mail</a>
+
+Ссылка на телефон:
+<!-- ссылка на телефон, где +71234567890 - ваш номер телефона -->
+<a href="tel:+71234567890">+7 (123) 456-78-90</a>
